@@ -11,7 +11,6 @@ anyio==4.9.0
 appnope==0.1.4
 asttokens==3.0.0
 attrs==25.3.0
-audioop-lts==0.2.1
 autogen-agentchat==0.6.1
 autogen-core==0.6.1
 autogen-ext==0.6.1
